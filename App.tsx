@@ -1,18 +1,9 @@
 
 import React, { useState, useEffect } from 'react';
 import { 
-  Home, 
-  User, 
-  Tool, 
-  Award, 
-  Briefcase, 
   Mail, 
-  ChevronRight, 
   Github, 
-  Linkedin, 
-  Phone,
-  BarChart3,
-  CheckCircle2
+  Linkedin
 } from 'lucide-react';
 import Hero from './components/Hero';
 import About from './components/About';
